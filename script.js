@@ -12,16 +12,15 @@ document.addEventListener('DOMContentLoaded', function() {
     welcomeScreen.classList.add('loaded');
   }, 500);
   
-  // Enter portfolio button click
-  enterBtn.addEventListener('click', function() {
+    enterBtn.addEventListener('click', function() {
     welcomeScreen.classList.add('hidden');
     
-    // Remove welcome screen from DOM after animation
     setTimeout(() => {
       welcomeScreen.style.display = 'none';
     }, 1000);
   });
-  
+
+
   // Theme Toggle
   themeToggle.addEventListener('click', function() {
     document.body.classList.toggle('light-theme');
@@ -33,7 +32,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
   
-  // Load saved theme
   const savedTheme = localStorage.getItem('theme');
   if (savedTheme === 'light') {
     document.body.classList.add('light-theme');
@@ -45,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function() {
     document.body.style.overflow = 'hidden'; 
   });
   
-  // Close CV Modal
+  
   closeModal.addEventListener('click', function() {
     cvModal.classList.remove('active');
     document.body.style.overflow = 'auto';
@@ -207,13 +205,13 @@ document.addEventListener('DOMContentLoaded', function() {
     contactForm.addEventListener('submit', function(e) {
       e.preventDefault();
       
-      // Get form values
+      
       const name = document.getElementById('name').value;
       const email = document.getElementById('email').value;
       const subject = document.getElementById('subject').value || 'No Subject';
       const message = document.getElementById('message').value;
       
-      // Create message object
+      
       const formData = {
         name: name,
         email: email,
@@ -239,12 +237,10 @@ document.addEventListener('DOMContentLoaded', function() {
       // Add new message at the beginning
       messages.unshift(data);
       
-      // Keep only last 50 messages
       if (messages.length > 50) {
         messages = messages.slice(0, 50);
       }
       
-      // Save back to localStorage
       localStorage.setItem('portfolioMessages', JSON.stringify(messages));
       
       // Log for debugging (optional)
@@ -271,7 +267,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     document.body.appendChild(notification);
     
-    // Remove after 5 seconds
+    
     setTimeout(() => {
       notification.style.animation = 'slideOut 0.3s ease';
       setTimeout(() => notification.remove(), 300);
@@ -293,7 +289,6 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }, observerOptions);
   
-  // Observe sections for animation
   document.querySelectorAll('section').forEach(section => {
     observer.observe(section);
   });
