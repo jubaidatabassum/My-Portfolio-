@@ -199,7 +199,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
   
-  // Contact Form Submission (Saves to localStorage)
+  // Contact Form Submission 
   const contactForm = document.getElementById('contact-form');
   if (contactForm) {
     contactForm.addEventListener('submit', function(e) {
