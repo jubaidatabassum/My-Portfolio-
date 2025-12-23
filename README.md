@@ -1,6 +1,6 @@
 # My-Portfolio-
 Portfolio - Jubaida Tabassum Tasneem
-
+##Figma Prototype Link:https://www.figma.com/proto/HyWCyyXhVFZFMJw7PLJPkM/Jubaida-s-Portfolio?node-id=1-2&t=kOl1Lcsy7bQo0HqF-8&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&hide-ui=1
 
 ##Modern portfolio with these features:
 
@@ -33,8 +33,8 @@ Portfolio - Jubaida Tabassum Tasneem
 
 4. Setup
 
-1. Add your photo
-2. Add your CV
+1. Added photo
+2. Added CV
 3. Open index.html in browser
 
 5. Tech
