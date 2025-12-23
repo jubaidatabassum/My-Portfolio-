@@ -1,9 +1,11 @@
-## My-Portfolio-
+## My-Portfolio
 Portfolio - Jubaida Tabassum Tasneem
+## My website live site at https://jubaidatabassum.github.io/My-Portfolio-/
+
 ## Figma Prototype Link:https://www.figma.com/proto/HyWCyyXhVFZFMJw7PLJPkM/Jubaida-s-Portfolio?node-id=1-2&t=kOl1Lcsy7bQo0HqF-8&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&hide-ui=1
 
 ## 📝 About me
-A dedicated Computer Science & Engineering student with a perfect academic record. Passionate about creating efficient software solutions and exploring new technologies. Published researcher with papers in student journals, skilled in multiple programming languages, and committed to continuous learning and innovation in technology.
+A dedicated Computer Science & Engineering student who is passionate about creating efficient software solutions and exploring new technologies. Published researcher with papers in student journals, skilled in multiple programming languages, and committed to continuous learning and innovation in technology.
 ## 🌟 Website Features
 
 ## 🎨 Visual & Interactive
