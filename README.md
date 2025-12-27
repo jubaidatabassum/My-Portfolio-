@@ -37,24 +37,24 @@ A dedicated Computer Science & Engineering student who is passionate about creat
 #Contact - Working contact form
 
 ## ⚡ Working Features
-CV PDF Integration - View & download CV directly from website
+➡️CV PDF Integration - View & download CV directly from website
 
-Contact Form - Saves messages to browser (no backend needed)
+➡️Contact Form - Saves messages to browser (no backend needed)
 
-Message Viewer - Admin panel to see all submissions
+➡️Message Viewer - Admin panel to see all submissions
 
-Data Export - Download messages as JSON file
+➡️Data Export - Download messages as JSON file
 
-Mobile Responsive - Works perfectly on all devices
+➡️Mobile Responsive - Works perfectly on all devices
 
 ## 📱 Responsive Design
-Mobile-first approach
+➡️Mobile-first approach
 
-Adaptive layouts for tablets & desktops
+➡️Adaptive layouts for tablets & desktops
 
-Touch-friendly interface
+➡️Touch-friendly interface
 
-Optimized performance
+➡️Optimized performance
 
 ## 🚀 Quick Start
 -Installation
@@ -66,28 +66,28 @@ Optimized performance
 -Added my CV as assets/my_CV.pdf
 
 ## Usage
-Open index.html in any browser
+➡️Open index.html in any browser
 
-Click "View & Download CV" for PDF
+➡️Click "View & Download CV" for PDF
 
-Use contact form to save messages
+➡️Use contact form to save messages
 
-Click "View Messages" to see submissions
+➡️Click "View Messages" to see submissions
 
-Toggle theme in navbar
+➡️Toggle theme in navbar
 
 ## 🛠️ Technology Stack
-HTML5 - Semantic structure
+➡️HTML5 - Semantic structure
 
-CSS3 - Styling, animations, responsive design
+➡️CSS3 - Styling, animations, responsive design
 
-JavaScript - Interactive functionality
+➡️JavaScript - Interactive functionality
 
-Font Awesome - Icons
+➡️Font Awesome - Icons
 
-Google Fonts - Typography
+➡️Google Fonts - Typography
 
-LocalStorage - Data persistence
+➡️LocalStorage - Data persistence
 
 ## 📁 File Structure
 text
@@ -102,33 +102,33 @@ portfolio/
 ## 🔧 How It Works
 ## Contact System
 
-Messages save to google sheet
+➡️Messages save to google sheet
 
-No server or database required
+➡️No server or database required
 
-Messages persist after page refresh
+➡️Messages persist after page refresh
 
-Can view, export, or clear messages
+➡️Can view, export, or clear messages
 
 ## CV System
 
-PDF opens in modal popup
+➡️PDF opens in modal popup
 
-Direct download available
+➡️Direct download available
 
-No external dependencies
+➡️No external dependencies
 
-Mobile-friendly viewer
+➡️Mobile-friendly viewer
 
 ##Theme System
 
-Toggle between dark/light modes
+➡️Toggle between dark/light modes
 
-Saves preference automatically
+➡️Saves preference automatically
 
-All elements adapt colors
+➡️All elements adapt colors
 
-Smooth transitions
+➡️Smooth transitions
 
 ## 📞 Contact
 Jubaida Tabassum Tasneem
