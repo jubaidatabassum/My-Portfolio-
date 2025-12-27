@@ -59,7 +59,7 @@ Optimized performance
 ## 🚀 Quick Start
 -Installation
 -bash
--git clone https://github.com/jubaidatabassum/portfolio.git
+-git clone https://github.com/jubaidatabassum/My-Portfolio-.git
 -cd portfolio
 -Setup (2 Steps)
 -Added my profile photo as pfp.jpeg
