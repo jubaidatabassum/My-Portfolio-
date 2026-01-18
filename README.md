@@ -1,6 +1,6 @@
 ## My-Portfolio
 Portfolio - Jubaida Tabassum Tasneem
-## My website live site at https://jubaidatabassum.github.io/My-Portfolio-/
+## My website live site at  https://jubaidatabassum.github.io/My-Portfolio-/
 
 ## 🔰 Figma Prototype Link:https://www.figma.com/proto/HyWCyyXhVFZFMJw7PLJPkM/Jubaida-s-Portfolio?node-id=1-2&t=kOl1Lcsy7bQo0HqF-8&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&hide-ui=1
 
@@ -8,130 +8,130 @@ Portfolio - Jubaida Tabassum Tasneem
 A dedicated Computer Science & Engineering student who is passionate about creating efficient software solutions and exploring new technologies. Published researcher with papers in student journals, skilled in multiple programming languages, and committed to continuous learning and innovation in technology.
 ## 🌟 Website Features
 
-## 🎨 Visual & Interactive
-#Dark/Light Theme Toggle - Switch themes with automatic preference saving
+## 🎨 Visual & Interactive Features
 
-#Animated Welcome Screen - Smooth entrance with gradient text effects
+✨ Dark / Light Theme Toggle
+→ Switch themes instantly with automatic preference saving
 
-#Particle Background - Dynamic purple particles in hero section
+✨ Animated Welcome Screen
+→ Smooth entrance animations with gradient text effects
 
-#Card Hover Animations - Interactive 3D effects on all cards
+✨ Particle Background
+→ Dynamic purple particle animation in the hero section
 
-#Smooth Scrolling - Navigation between sections
+✨ 3D Card Hover Effects
+→ Interactive hover animations on all cards
 
-## 📄 Content Sections
-#Hero Section - Profile introduction with social links
+✨ Smooth Scrolling
+→ Seamless navigation between sections
 
-#About Me - Personal information with interactive cards
+## 📄 Website Sections
 
-#Education - Timeline visualization of academic journey
+🧑‍💻 Hero Section
+→ Profile introduction with social media links
 
-#Projects - Showcase with images and tech tags
+📌 About Me
+→ Personal details displayed in interactive cards
 
-#Skills - Animated progress bars and services
+🎓 Education
+→ Timeline-style academic journey
 
-#Publications - Research work with journal details
+💼 Projects
+→ Project showcase with images and technology tags
 
-#Blogs - Articles with reading metrics
+🛠️ Skills
+→ Animated progress bars & service highlights
 
-#Contact - Working contact form
+📚 Publications
+→ Research works with journal information
 
-## ✏️ Working Features
-➡CV PDF Integration - View & download CV directly from website
+✍️ Blogs
+→ Articles with reading metrics
 
-◑Contact Form - Saves messages to browser (no backend needed)
+📬 Contact
+→ Fully functional contact form
 
-◑Message Viewer - Admin panel to see all submissions
+## ✏️ Functional Features
 
-◑Data Export - Download messages as JSON file
+📄 CV PDF Integration
+→ View & download CV directly from the website
 
-◑Mobile Responsive - Works perfectly on all devices
+📝 Contact Form (No Backend Required)
+→ Messages stored locally in the browser
 
-## 📱 Responsive Design
-◑Mobile-first approach
+🗂️ Message Viewer (Admin Panel)
+→ View all submitted messages
 
-◑Adaptive layouts for tablets & desktops
+📤 Data Export
+→ Download messages as a JSON file
 
-◑Touch-friendly interface
+📱 Mobile Responsive Design
+→ Optimized for all screen sizes
 
-◑Optimized performance
+## 📱 Responsive Design Highlights
 
-## 🚀 Quick Start
--Installation
--bash
--git clone https://github.com/jubaidatabassum/My-Portfolio-.git
--cd portfolio
--Setup (2 Steps)
--Added my profile photo as pfp.jpeg
--Added my CV as assets/my_CV.pdf
+✔ Mobile-first approach
+✔ Adaptive layouts for tablets & desktops
+✔ Touch-friendly UI
+✔ Performance-optimized animations
 
-## Usage🖇️
-◑Open index.html in any browser
+## 🚀 Quick Start Guide
+🔧 Installation
+git clone https://github.com/jubaidatabassum/My-Portfolio-.git
+cd portfolio
 
-◑Click "View & Download CV" for PDF
+## 🖇️ Usage
 
-◑Use contact form to save messages
-
-◑Click "View Messages" to see submissions
-
-◑Toggle theme in navbar
+🔹 Open index.html in any modern browser
+🔹 Click "View & Download CV" to access PDF
+🔹 Submit messages using the contact form
+🔹 Click "View Messages" to see saved submissions
+🔹 Toggle Dark / Light Mode from the navbar
 
 ## 🛠️ Technology Stack
-◑HTML5 - Semantic structure
 
-◑CSS3 - Styling, animations, responsive design
+🧱 HTML5 — Semantic & accessible structure
+🎨 CSS3 — Styling, animations & responsiveness
+⚙️ JavaScript — Interactive & dynamic features
+🎯 Font Awesome — Icons
+✍️ Google Fonts — Typography
 
-◑JavaScript - Interactive functionality
-
-◑Font Awesome - Icons
-
-◑Google Fonts - Typography
-
-
-## 📁 File Structure
-text
+## 📁 Project Structure
 portfolio/
-├── index.html          # Main HTML file
-├── style.css           # All CSS styles
-├── script.js           # All JavaScript
-├── pfp.jpeg             # Profile photo
+├── index.html        # Main HTML file
+├── style.css         # CSS styles & animations
+├── script.js         # JavaScript logic
+├── pfp.jpeg          # Profile photo
 └── assets/
-    └── my_CV.pdf 
-    
+    └── my_CV.pdf     # CV file
+
 ## 🔧 How It Works
-## Contact System
+📬 Contact System
 
-◑Messages save to google sheet
+✔ Messages saved in browser storage
+✔ No server or database required
+✔ Data persists after refresh
+✔ View, export, or clear messages anytime
 
-◑No server or database required
+📄 CV System
 
-◑Messages persist after page refresh
+✔ PDF opens in modal popup
+✔ One-click download
+✔ Mobile-friendly viewer
+✔ No external dependencies
 
-◑Can view, export, or clear messages
+🌗 Theme System
 
-## CV System
+✔ Dark / Light mode toggle
+✔ Preference saved automatically
+✔ Smooth color transitions
+✔ Fully adaptive UI
 
-◑PDF opens in modal popup
+## 📞 Contact Information
 
-◑Direct download available
-
-◑No external dependencies
-
-◑Mobile-friendly viewer
-
-##Theme System
-
-◑Toggle between dark/light modes
-
-◑Saves preference automatically
-
-◑All elements adapt colors
-
-◑Smooth transitions
-
-## 📞 Contact
-Jubaida Tabassum Tasneem
+👤 Jubaida Tabassum Tasneem
 📍 Chattogram, Bangladesh
-📧 jubaidatasneem0@gmail.com
-🔗 LinkedIn
-🐙 GitHub
+📧 Email: jubaidatasneem0@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/jubaida-tasneem-641354386/
+🐙 GitHub:   https://github.com/jubaidatabassum
