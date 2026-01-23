@@ -10,62 +10,62 @@ A dedicated Computer Science & Engineering student who is passionate about creat
 
 ## 🎨 Visual & Interactive Features
 
-✨ Dark / Light Theme Toggle
+ Dark / Light Theme Toggle
 → Switch themes instantly with automatic preference saving
 
-✨ Animated Welcome Screen
+Animated Welcome Screen
 → Smooth entrance animations with gradient text effects
 
-✨ Particle Background
+Particle Background
 → Dynamic purple particle animation in the hero section
 
-✨ 3D Card Hover Effects
+3D Card Hover Effects
 → Interactive hover animations on all cards
 
-✨ Smooth Scrolling
+ Smooth Scrolling
 → Seamless navigation between sections
 
 ## 📄 Website Sections
 
-🧑‍💻 Hero Section
+ Hero Section
 → Profile introduction with social media links
 
-📌 About Me
+About Me
 → Personal details displayed in interactive cards
 
-🎓 Education
+ Education
 → Timeline-style academic journey
 
-💼 Projects
+Projects
 → Project showcase with images and technology tags
 
-🛠️ Skills
+ Skills
 → Animated progress bars & service highlights
 
-📚 Publications
+ Publications
 → Research works with journal information
 
-✍️ Blogs
+ Blogs
 → Articles with reading metrics
 
-📬 Contact
+ Contact
 → Fully functional contact form
 
 ## ✏️ Functional Features
 
-📄 CV PDF Integration
+ CV PDF Integration
 → View & download CV directly from the website
 
-📝 Contact Form (No Backend Required)
+ Contact Form (No Backend Required)
 → Messages stored locally in the browser
 
-🗂️ Message Viewer (Admin Panel)
+ Message Viewer (Admin Panel)
 → View all submitted messages
 
-📤 Data Export
+ Data Export
 → Download messages as a JSON file
 
-📱 Mobile Responsive Design
+ Mobile Responsive Design
 → Optimized for all screen sizes
 
 ## 📱 Responsive Design Highlights
@@ -90,11 +90,11 @@ cd portfolio
 
 ## 🛠️ Technology Stack
 
-🧱 HTML5 — Semantic & accessible structure
-🎨 CSS3 — Styling, animations & responsiveness
-⚙️ JavaScript — Interactive & dynamic features
-🎯 Font Awesome — Icons
-✍️ Google Fonts — Typography
+HTML5 — Semantic & accessible structure
+CSS3 — Styling, animations & responsiveness
+JavaScript — Interactive & dynamic features
+Font Awesome — Icons
+Google Fonts — Typography
 
 ## 📁 Project Structure
 portfolio/
